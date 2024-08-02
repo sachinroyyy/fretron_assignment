@@ -1,0 +1,4 @@
+https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/
+https://discourse.julialang.org/t/pair-of-non-intersecting-shortest-paths-on-undirected-graph/47988
+https://cs.stackexchange.com/questions/19413/non-intersecting-path
+https://www.sciencedirect.com/science/article/abs/pii/S0304397
